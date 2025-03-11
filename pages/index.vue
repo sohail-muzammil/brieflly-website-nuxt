@@ -1,7 +1,16 @@
 <template>
-    <div>
-        <h1>Welcome to Home Page</h1>
-    </div>
+  <div>
+    <home-header />
+    <main>
+      <home-brief-steps />
+      <home-features />
+      <home-testimonials />
+      <home-services />
+      <home-faqs />
+      <home-tools />
+      <home-start-now />
+    </main>
+  </div>
 </template>
 
 <script setup lang="ts">
