@@ -9,26 +9,26 @@
             <!-- Name Field -->
             <div class="mb-3">
               <label for="name" class="form-label">Full Name</label>
-              <input type="text" class="form-control" id="name" placeholder="Enter your name" v-model="form.name" />
+              <input type="text" class="form-control form-control-lg rounded-pill" id="name" placeholder="Enter your name" v-model="form.name" />
             </div>
 
             <!-- Email Field -->
             <div class="mb-3">
               <label for="email" class="form-label">Email</label>
-              <input type="email" class="form-control" id="email" placeholder="Enter your email" v-model="form.email" />
+              <input type="email" class="form-control form-control-lg rounded-pill" id="email" placeholder="Enter your email" v-model="form.email" />
             </div>
 
             <!-- Company or Organization Field -->
             <div class="mb-3">
               <label for="company" class="form-label">Company or Organization</label>
-              <input type="text" class="form-control" id="company" placeholder="Enter your company name"
+              <input type="text" class="form-control form-control-lg rounded-pill" id="company" placeholder="Enter your company name"
                 v-model="form.company" />
             </div>
 
             <!-- Project Description Field -->
             <div class="mb-3">
               <label for="project" class="form-label">Tell us about your project</label>
-              <textarea id="project" class="form-control"
+              <textarea id="project" class="form-control form-control-lg rounded-5" rows="4"
                 placeholder="Share what you're working on and how Brieflly can help" v-model="form.project"></textarea>
             </div>
 
