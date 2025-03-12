@@ -5,12 +5,11 @@
                 <div class="container text-center text-white mt-sm-5">
                     <div class="row">
                         <div class="col">
-                            <h1 class="display-3">Fed up with unrealiable providers? Get your projects done right with
+                            <h1 class="display-3">Fed up with unrealiable providers? <br> Get your projects done right with
                                 Brieflly.</h1>
                             <p class="lead">Instant briefs, expert matches, and project control - all in one platform
                                 that works at your speed.</p>
-                            <NuxtLink to="#" class="btn btn-primary rounded-pill text-uppercase">Let's go! Sign up for
-                                free</NuxtLink>
+                            <NuxtLink to="#" class="btn btn-primary rounded-pill text-uppercase">Let's Go! Join Waitlist</NuxtLink>
                         </div>
                     </div>
                 </div>

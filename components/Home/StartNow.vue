@@ -13,7 +13,7 @@
                         <li class="list-inline-item pe-4">Expert support</li>
                     </ul>
                     <NuxtLink to="/" class="btn btn-primary rounded-pill text-uppercase">
-                        Start for Free
+                        Start Now
                     </NuxtLink>
                 </div>
             </div>

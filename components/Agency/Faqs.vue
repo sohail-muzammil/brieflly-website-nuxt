@@ -37,20 +37,20 @@ export default {
             activeIndex: null,
             faqs: [
                 {
-                    question: "How does Brieflly match me with the right service provider?",
-                    answer: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste deleniti nam pariatur iusto repellat vitae sint fugiat. Soluta, eligendi voluptates. Est at dolore nemo quam repellat ea alias possimus eaque?"
+                    question: "How does Brieflly match my agency with clients?",
+                    answer: "Brieflly’s matching technology uses data-powered analytics to assess each brief’s specific requirements and match them to agencies with the right experience, expertise, and proven track record. You only see projects that genuinely fit, so you spend less time searching and more time on high-impact work."
                 },
                 {
-                    question: "What are Brieflly’s pricing plans?",
-                    answer: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste deleniti nam pariatur iusto repellat vitae sint fugiat. Soluta, eligendi voluptates. Est at dolore nemo quam repellat ea alias possimus eaque?"
+                    question: "What is the vetting process for agencies?",
+                    answer: "Every agency goes through a rigorous vetting process. Our team evaluates your client history, expertise, and past project success to ensure our users are matched with trusted, high-quality agencies. Only agencies that pass Brieflly’s rigorous vetting make it in, creating a network built on trust and proven expertise."
                 },
                 {
-                    question: "How do I pay with Brieflly’s credit system?",
-                    answer: "It’s simple: you purchase credits based on the package that fits your needs. Use these credits to create briefs, match with experts, and manage your projects. Running a bigger project? Simply add more credits - pay only for what you need, with no hidden costs."
+                    question: "How does payment work?",
+                    answer: "Brieflly offers milestone-based payments, so you get paid as each stage is completed. This system reduces invoicing issues, aligns payments with project progress, and boosts cash flow reliability for your agency."
                 },
                 {
-                    question: "How do I know the providers on Brieflly are reliable?",
-                    answer: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste deleniti nam pariatur iusto repellat vitae sint fugiat. Soluta, eligendi voluptates. Est at dolore nemo quam repellat ea alias possimus eaque?"
+                    question: "How much does it cost to join?",
+                    answer: "Agencies join Brieflly for free. Project costs are handled through a flexible, credit-based system managed by clients, so you only focus on delivering great work without extra fees."
                 }
             ]
         };

@@ -38,11 +38,11 @@ export default {
             faqs: [
                 {
                     question: "How does Brieflly match me with the right service provider?",
-                    answer: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste deleniti nam pariatur iusto repellat vitae sint fugiat. Soluta, eligendi voluptates. Est at dolore nemo quam repellat ea alias possimus eaque?"
+                    answer: "Brieflly uses a sophisticated, data-driven algorithm that instantly matches your project brief with vetted and verified service providers who meet your specific needs. No more searching, Brieflly does the heavy lifting for you."
                 },
                 {
                     question: "What are Brieflly’s pricing plans?",
-                    answer: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste deleniti nam pariatur iusto repellat vitae sint fugiat. Soluta, eligendi voluptates. Est at dolore nemo quam repellat ea alias possimus eaque?"
+                    answer: "We offer a variety of plans to suit different needs and budgets. Here’s an overview: Free Plan: $0/month, includes 10 free credits to try out the platform. Basic Plan: $8.99/month, ideal for smaller projects. Explorer Plan: $14.99/month, offering better credit discounts for medium-level usage. Pro Plan: $24.99/month, the best value for high-volume users. Each plan allows you to purchase credit packages at discounted rates, with larger packages offering the best value."
                 },
                 {
                     question: "How do I pay with Brieflly’s credit system?",
@@ -50,7 +50,7 @@ export default {
                 },
                 {
                     question: "How do I know the providers on Brieflly are reliable?",
-                    answer: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste deleniti nam pariatur iusto repellat vitae sint fugiat. Soluta, eligendi voluptates. Est at dolore nemo quam repellat ea alias possimus eaque?"
+                    answer: "Every expert on our platform is vetted and verified. We dive deep into their work history, reviews, and expertise so you don’t have to. When Brieflly says 'expert,' we mean it, you’re in safe hands every time."
                 }
             ]
         };
