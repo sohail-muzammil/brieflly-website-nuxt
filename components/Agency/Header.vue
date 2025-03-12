@@ -5,7 +5,7 @@
             <section>
                 <div class="container text-center text-white mt-5 pt-5">
                     <div class="row pt-5">
-                        <div class="col">
+                        <div class="col" data-aos="fade-in">
                             <h1 class="display-3 fw-bold">For Agencies Ready to Skip the Hassle, Score Great Clients,
                                 and Get Paid Fast</h1>
                             <NuxtLink to="/" class="btn btn-primary rounded-pill px-5 shadow-lg mt-3">Join Brieflly

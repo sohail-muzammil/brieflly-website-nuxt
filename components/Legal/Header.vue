@@ -17,7 +17,7 @@ defineProps({
       <section>
         <div class="container text-center text-white mt-5 pt-5">
           <div class="row pt-5">
-            <div class="col">
+            <div class="col" data-aos="fade-in">
               <h1 class="display-3 fw-bold">{{ heading }}</h1>
               <p>{{ description }}</p>
             </div>

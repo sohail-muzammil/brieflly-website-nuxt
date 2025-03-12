@@ -2,11 +2,11 @@
     <section class="bg-light">
         <div class="container my-5">
             <div class="row text-center">
-                <div class="col">
+                <div class="col" data-aos="fade-in">
                     <h2 class="display-5">Hear it Straight from our early Users:</h2>
                 </div>
             </div>
-            <div class="row mt-5">
+            <div class="row mt-5" data-aos="fade-in">
                 <Carousel v-bind="carouselOptions">
                     <Slide v-for="(testimonial, index) in testimonials" :key="index">
                         <div class="card border-0 rounded-5 p-4 h-100">

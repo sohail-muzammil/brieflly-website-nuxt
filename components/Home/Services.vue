@@ -2,13 +2,13 @@
     <section>
         <div class="container py-5">
             <div class="row text-center">
-                <div class="col">
+                <div class="col" data-aos="fade-in">
                     <h2 class="display-5">Match With The Right Experts, Right Now</h2>
                 </div>
             </div>
             <div class="row mt-5">
                 <div v-for="(service, index) in services" :key="index" class="col-md-6 col-lg-4 my-4">
-                    <div class="card bg-light border-light-subtle shadow-sm rounded-4 py-3 h-100">
+                    <div class="card bg-light border-light-subtle shadow-sm rounded-4 py-3 h-100" data-aos="fade-in">
                         <div class="card-body">
                             <h3 class="lead fw-bold mb-3">
                                 <img :src="`/img/home/services/${service.icon}.png`" width="60" height="60" :alt="service.name">

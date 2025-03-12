@@ -2,7 +2,7 @@
     <section>
         <div class="container start-now-bg rounded-5">
             <div class="row text-center">
-                <div class="col">
+                <div class="col" data-aos="fade-in">
                     <h2 class="display-5">
                         Ready to ditch the chaos? <br />
                         Kickstart your first brief, without the hassle.

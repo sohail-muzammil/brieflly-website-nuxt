@@ -2,7 +2,7 @@
     <section class="bg-light">
         <div class="container py-5">
             <div class="row text-center">
-                <div class="col">
+                <div class="col" data-aos="fade-in">
                     <h2 class="display-5">Our Mission and Vision</h2>
                     <p>We are a team of professionals with a deep passion for travel. We believe that travel is a window
                         to
@@ -11,7 +11,7 @@
             </div>
             <div class="row mt-5">
 
-                <div class="col-md-6 col-lg-6 my-4">
+                <div class="col-md-6 col-lg-6 my-4" data-aos="fade-in">
                     <div class="card bg-white border-0 rounded-4 py-3 h-100">
                         <div class="card-body">
                             <div class="row">
@@ -31,7 +31,7 @@
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-6 my-4">
+                <div class="col-md-6 col-lg-6 my-4" data-aos="fade-in">
                     <div class="card bg-white border-0 rounded-4 py-3 h-100">
                         <div class="card-body">
                             <div class="row">

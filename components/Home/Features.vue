@@ -2,11 +2,11 @@
   <section>
     <div class="container mb-5">
       <div class="row text-center mb-5">
-        <div class="col">
+        <div class="col" data-aos="fade-in">
           <h2 class="display-5">No More Wasted Time and Guesswork</h2>
         </div>
       </div>
-      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4" data-aos="fade-in">
         <div v-for="(feature, index) in features" :key="index" class="col mt-5">
           <div class="card feature-card border-0 rounded-4 shadow-sm px-3 py-5 h-100 position-relative">
             <div class="feature-card-icon position-absolute top-0 start-50 translate-middle rounded-circle border border-4 border-white d-flex align-items-center justify-content-center"

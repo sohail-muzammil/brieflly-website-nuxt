@@ -2,7 +2,7 @@
   <section style="background-color: #041428;">
     <div class="container">
       <div class="row text-center text-white">
-        <div class="col">
+        <div class="col" data-aos="fade-in">
           <h2 class="display-5">
             Join Brieflly <br>
             Simplified Setup For Agencies
@@ -14,7 +14,7 @@
       </div>
       <div class="row">
         <div
-          class="col-md-6 col-lg-4 mt-5"
+          class="col-md-6 col-lg-4 mt-5"  data-aos="fade-in"
           v-for="(feature, index) in features"
           :key="index"
         >

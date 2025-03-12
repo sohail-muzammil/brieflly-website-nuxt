@@ -2,12 +2,12 @@
     <section>
         <div class="container">
             <div class="row text-center">
-                <div class="col">
+                <div class="col" data-aos="fade-in">
                     <h2 class="display-5">Your Questions, Answered</h2>
                 </div>
             </div>
             <div class="row">
-                <div class="col mt-5">
+                <div class="col mt-5" data-aos="fade-in">
                     <div class="accordion accordion-flush" id="faqs">
                         <div class="accordion-item py-4" v-for="(faq, index) in faqs" :key="index">
                             <h3 class="accordion-header">

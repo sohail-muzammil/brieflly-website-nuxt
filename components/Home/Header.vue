@@ -4,7 +4,7 @@
             <section>
                 <div class="container text-center text-white mt-sm-5">
                     <div class="row">
-                        <div class="col">
+                        <div class="col" data-aos="fade-in">
                             <h1 class="display-3">Fed up with unrealiable providers? <br> Get your projects done right with
                                 Brieflly.</h1>
                             <p class="lead">Instant briefs, expert matches, and project control - all in one platform
@@ -17,7 +17,7 @@
             <section>
                 <div class="container">
                     <div class="row">
-                        <div class="col">
+                        <div class="col" data-aos="fade-in">
                             <img src="~/assets/img/home/hero-bottom.png" class="w-100 rounded-5" alt="">
                         </div>
                     </div>

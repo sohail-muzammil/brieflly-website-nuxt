@@ -2,13 +2,13 @@
     <section>
         <div class="container">
             <div class="row text-center">
-                <div class="col">
+                <div class="col" data-aos="fade-in">
                     <h2 class="display-5">All-in-One Control, No Clutter</h2>
                     <p>Seamless Setup, Verified Matching</p>
                 </div>
             </div>
             <div class="row mt-5">
-                <div class="col-md-6">
+                <div class="col-md-6" data-aos="fade-in">
                     <div class="card bg-light border-0 rounded-4 my-4">
                         <div class="card-body">
                             <div class="row">
@@ -67,7 +67,7 @@
                     </div>
                 </div>
                 <div class="col-md-1 col-xl-2"></div>
-                <div class="col-md-5 col-xl-4">
+                <div class="col-md-5 col-xl-4" data-aos="fade-in">
                     <img src="~/assets/img/agency/matching.png" class="w-100"
                         alt="">
                 </div>

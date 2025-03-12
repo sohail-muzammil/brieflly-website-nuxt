@@ -2,7 +2,7 @@
   <section>
     <div class="container">
       <div class="row">
-        <div class="col-md-8 mx-auto">
+        <div class="col-md-8 mx-auto" data-aos="fade-in">
           <div class="card border-0 bg-light rounded-5">
             <div class="card-body">
               <form @submit.prevent="handleSubmit" class="container mt-4">
