@@ -7,7 +7,7 @@
       <home-testimonials />
       <home-services />
       <home-faqs />
-      <home-tools />
+      <tools />
       <home-start-now />
     </main>
   </div>

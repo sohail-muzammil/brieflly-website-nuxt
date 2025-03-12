@@ -16,7 +16,7 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-2">
-                                    <img src="~assets/img/about/mission.png" class="w-100" alt="">
+                                    <img src="~/assets/img/about/mission.png" class="w-100" alt="">
                                 </div>
                                 <div class="col-10">
                                     <h3 class="lead fw-bold mb-3">Our Mission</h3>
@@ -36,7 +36,7 @@
                         <div class="card-body">
                             <div class="row">
                                 <div class="col-2">
-                                    <img src="~assets/img/about/vision.png" class="w-100" alt="">
+                                    <img src="~/assets/img/about/vision.png" class="w-100" alt="">
                                 </div>
                                 <div class="col-10">
                                     <h3 class="lead fw-bold mb-3">Our Vision</h3>

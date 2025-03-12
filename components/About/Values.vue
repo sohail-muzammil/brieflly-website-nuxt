@@ -12,7 +12,7 @@
             <div class="col-md-6 col-lg-6 my-4">
                 <div class="card bg-light border-light rounded-4 py-3 h-100">
                     <div class="card-body">
-                        <img src="assets/img/about/efficiency.png" width="36" height="36" alt="" class="mb-4 rounded-circle">
+                        <img src="~/assets/img/about/efficiency.png" width="36" height="36" alt="" class="mb-4 rounded-circle">
 
                         <h3 class="lead fw-medium mb-4">Efficiency</h3>
 
@@ -24,7 +24,7 @@
             <div class="col-md-6 col-lg-6 my-4">
                 <div class="card bg-light border-light rounded-4 py-3 h-100">
                     <div class="card-body">
-                        <img src="assets/img/about/transparency.png" width="36" height="36" alt="" class="mb-4 rounded-circle">
+                        <img src="~/assets/img/about/transparency.png" width="36" height="36" alt="" class="mb-4 rounded-circle">
 
                         <h3 class="lead fw-medium mb-4">Transparency</h3>
 
@@ -36,7 +36,7 @@
             <div class="col-md-6 col-lg-4 my-4">
                 <div class="card bg-light border-light rounded-4 py-3 h-100">
                     <div class="card-body">
-                        <img src="assets/img/about/trust.png" width="36" height="36" alt="" class="mb-4 rounded-circle">
+                        <img src="~/assets/img/about/trust.png" width="36" height="36" alt="" class="mb-4 rounded-circle">
 
                         <h3 class="lead fw-medium mb-4">Trust</h3>
 
@@ -48,7 +48,7 @@
             <div class="col-md-6 col-lg-4 my-4">
                 <div class="card bg-light border-light rounded-4 py-3 h-100">
                     <div class="card-body">
-                        <img src="assets/img/about/innovation.png" width="36" height="36" alt="" class="mb-4 rounded-circle">
+                        <img src="~/assets/img/about/innovation.png" width="36" height="36" alt="" class="mb-4 rounded-circle">
 
                         <h3 class="lead fw-medium mb-4">Innovation</h3>
 
@@ -60,7 +60,7 @@
             <div class="col-md-6 col-lg-4 my-4">
                 <div class="card bg-light border-light rounded-4 py-3 h-100">
                     <div class="card-body">
-                        <img src="assets/img/about/customer-focus.png" width="36" height="36" alt="" class="mb-4 rounded-circle">
+                        <img src="~/assets/img/about/customer-focus.png" width="36" height="36" alt="" class="mb-4 rounded-circle">
 
                         <h3 class="lead fw-medium mb-4">Customer Focus</h3>
 
