@@ -11,8 +11,10 @@
                     <div class="card bg-light border-light-subtle shadow-sm rounded-4 py-3 h-100">
                         <div class="card-body">
                             <h3 class="lead fw-bold mb-3">
-                                <img :src="`~/assets/img/home/services/${service.icon}.png`" width="60" height="60" :alt="service.name">
-                                {{ service.name }}
+                                <img :src="`_nuxt/assets/img/home/services/${service.icon}.png`" width="60" height="60" :alt="service.name">
+                                <span class="ms-2">
+                                    {{ service.name }}
+                                </span>
                             </h3>
                             <ul>
                                 <li v-for="(subService, subIndex) in service.subServices" :key="subIndex">
