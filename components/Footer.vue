@@ -25,10 +25,6 @@
                 <NuxtLink class="link-light link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover"
                   to="/agency">For Agencies</NuxtLink>
               </li>
-              <li class="pb-3">
-                <NuxtLink class="link-light link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover"
-                  to="#">Contact</NuxtLink>
-              </li>
             </ul>
           </div>
           <div class="col-sm-4 col-md-3 mt-4">
