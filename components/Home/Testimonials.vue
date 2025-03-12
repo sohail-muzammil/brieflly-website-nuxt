@@ -17,7 +17,7 @@
                                 <p class="fw-bold">{{ testimonial.title }}</p>
                                 <p class="card-text">{{ testimonial.description }}</p>
                                 <div class="d-flex align-items-center pt-2">
-                                    <img :src="testimonial.image" alt="testimonial image">
+                                    <!-- <img :src="testimonial.image" alt="testimonial image"> -->
                                     <div>
                                         <h5 class="card-title fw-bold">{{ testimonial.name }}</h5>
                                         <span class="text-secondary">{{ testimonial.company }}</span>
@@ -71,60 +71,44 @@ export default {
             },
             testimonials: [
                 {
-                    title: 'Cut Website Redesign Time by 50% and Came in 20% Under Budget',
+                    title: 'Cut Project Planning Time by 75% with Seamless Brief Creation',
                     description:
-                        '"We were struggling to find a reliable agency for our website redesign, and the manual vetting process was taking far too long. That’s when we turned to Brieflly. In less than 10 minutes, their brief creation tool helped us generate a clear, detailed project scope, complete with tasks and budget estimates. Brieflly then matched us with a pre-vetted creative agency that fit our exact needs. Thanks to Brieflly, we launched the project 50% faster than expected and, thanks to the platform’s transparent pricing, we even came in 20% under budget. Brieflly has completely transformed the way we handle projects."',
+                        '"Brieflly took the hassle out of finding the right agency. In just minutes, we had a structured brief and were matched with a team that understood our vision. What would have taken weeks to set up was done in a day! We launched faster and saved time we could reinvest into growing our business."',
                     image: 'https://codingyaar.com/wp-content/uploads/square-headshot-1.png',
-                    name: 'Jane Doe',
-                    company: 'CEO, Example Company',
+                    name: 'Michael Tan',
+                    company: 'COO, ScaleUp Solutions',
                 },
                 {
-                    title: '30% Increase in Lead Generation with the Right Marketing Team',
+                    title: 'Doubled Our ROI with a Perfectly Matched Marketing Partner',
                     description:
-                        '"We were struggling to find a reliable agency for our website redesign, and the manual vetting process was taking far too long. That’s when we turned to Brieflly. In less than 10 minutes, their brief creation tool helped us generate a clear, detailed project scope, complete with tasks and budget estimates. Brieflly then matched us with a pre-vetted creative agency that fit our exact needs. Thanks to Brieflly, we launched the project 50% faster than expected and, thanks to the platform’s transparent pricing, we even came in 20% under budget. Brieflly has completely transformed the way we handle projects."',
+                        '"Finding an agency that truly aligned with our needs used to be a challenge. With Brieflly, we were connected to a marketing team that not only met but exceeded our expectations. Our ad performance improved, and we saw a 2X return on investment in just three months!"',
                     image: 'https://codingyaar.com/wp-content/uploads/square-headshot-2.png',
-                    name: 'June Doe',
-                    company: 'CEO, Example Company',
+                    name: 'Sophia Liew',
+                    company: 'Head of Growth, NextGen Tech',
                 },
                 {
-                    title: 'New Website design Time by 90% and Came in 10% Under Budget',
+                    title: '60% Faster Web Development with Expertly Vetted Agencies',
                     description:
-                        '"We were struggling to find a reliable agency for our website redesign, and the manual vetting process was taking far too long. That’s when we turned to Brieflly. In less than 10 minutes, their brief creation tool helped us generate a clear, detailed project scope, complete with tasks and budget estimates. Brieflly then matched us with a pre-vetted creative agency that fit our exact needs. Thanks to Brieflly, we launched the project 50% faster than expected and, thanks to the platform’s transparent pricing, we even came in 20% under budget. Brieflly has completely transformed the way we handle projects"',
+                        '"Brieflly transformed how we approach project outsourcing. Instead of sifting through endless agency lists, we filled out a brief, got matched instantly, and had our project kicked off in record time. The results? A fully developed platform delivered 60% faster than expected!"',
                     image: 'https://codingyaar.com/wp-content/uploads/bootstrap-profile-card-image.jpg',
-                    name: 'John Doe',
-                    company: 'CEO, Example Company',
+                    name: 'David Chua',
+                    company: 'CTO, Finovate Solutions',
                 },
                 {
-                    title: '30% Increase in Lead Generation with the Right Marketing Team',
+                    title: 'Scaling Internationally Without the Hiring Headache',
                     description:
-                        '"We were struggling to find a reliable agency for our website redesign, and the manual vetting process was taking far too long. That’s when we turned to Brieflly. In less than 10 minutes, their brief creation tool helped us generate a clear, detailed project scope, complete with tasks and budget estimates. Brieflly then matched us with a pre-vetted creative agency that fit our exact needs. Thanks to Brieflly, we launched the project 50% faster than expected and, thanks to the platform’s transparent pricing, we even came in 20% under budget. Brieflly has completely transformed the way we handle projects."',
+                        '"Expanding into new markets required local expertise, but hiring in-house wasn’t feasible. Brieflly connected us with a multilingual digital agency that handled everything—from content localization to ad campaigns. We successfully launched in three new regions without adding to our overhead."',
                     image: 'https://codingyaar.com/wp-content/uploads/square-headshot-2.png',
-                    name: 'June Doe',
-                    company: 'CEO, Example Company',
+                    name: 'Isabelle Renaud',
+                    company: 'VP of Marketing, GlobalRetail',
                 },
                 {
-                    title: 'New Website design Time by 90% and Came in 10% Under Budget',
+                    title: 'Reduced Project Costs by 30% with Transparent Pricing',
                     description:
-                        '"We were struggling to find a reliable agency for our website redesign, and the manual vetting process was taking far too long. That’s when we turned to Brieflly. In less than 10 minutes, their brief creation tool helped us generate a clear, detailed project scope, complete with tasks and budget estimates. Brieflly then matched us with a pre-vetted creative agency that fit our exact needs. Thanks to Brieflly, we launched the project 50% faster than expected and, thanks to the platform’s transparent pricing, we even came in 20% under budget. Brieflly has completely transformed the way we handle projects"',
+                        '"We’ve worked with agencies before, but pricing was always a guessing game. Brieflly’s transparent model gave us clarity upfront, ensuring we stayed within budget. Not only did we cut costs by 30%, but we also gained a long-term partner for future projects."',
                     image: 'https://codingyaar.com/wp-content/uploads/bootstrap-profile-card-image.jpg',
-                    name: 'John Doe',
-                    company: 'CEO, Example Company',
-                },
-                {
-                    title: '30% Increase in Lead Generation with the Right Marketing Team',
-                    description:
-                        '"We were struggling to find a reliable agency for our website redesign, and the manual vetting process was taking far too long. That’s when we turned to Brieflly. In less than 10 minutes, their brief creation tool helped us generate a clear, detailed project scope, complete with tasks and budget estimates. Brieflly then matched us with a pre-vetted creative agency that fit our exact needs. Thanks to Brieflly, we launched the project 50% faster than expected and, thanks to the platform’s transparent pricing, we even came in 20% under budget. Brieflly has completely transformed the way we handle projects."',
-                    image: 'https://codingyaar.com/wp-content/uploads/square-headshot-2.png',
-                    name: 'June Doe',
-                    company: 'CEO, Example Company',
-                },
-                {
-                    title: 'New Website design Time by 90% and Came in 10% Under Budget',
-                    description:
-                        '"We were struggling to find a reliable agency for our website redesign, and the manual vetting process was taking far too long. That’s when we turned to Brieflly. In less than 10 minutes, their brief creation tool helped us generate a clear, detailed project scope, complete with tasks and budget estimates. Brieflly then matched us with a pre-vetted creative agency that fit our exact needs. Thanks to Brieflly, we launched the project 50% faster than expected and, thanks to the platform’s transparent pricing, we even came in 20% under budget. Brieflly has completely transformed the way we handle projects"',
-                    image: 'https://codingyaar.com/wp-content/uploads/bootstrap-profile-card-image.jpg',
-                    name: 'John Doe',
-                    company: 'CEO, Example Company',
+                    name: 'Jason Wong',
+                    company: 'Founder, Evolve DTC',
                 },
             ],
         }

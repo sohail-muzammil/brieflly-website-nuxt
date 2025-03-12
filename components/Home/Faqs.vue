@@ -41,10 +41,6 @@ export default {
                     answer: "Brieflly uses a sophisticated, data-driven algorithm that instantly matches your project brief with vetted and verified service providers who meet your specific needs. No more searching, Brieflly does the heavy lifting for you."
                 },
                 {
-                    question: "What are Brieflly’s pricing plans?",
-                    answer: "We offer a variety of plans to suit different needs and budgets. Here’s an overview: Free Plan: $0/month, includes 10 free credits to try out the platform. Basic Plan: $8.99/month, ideal for smaller projects. Explorer Plan: $14.99/month, offering better credit discounts for medium-level usage. Pro Plan: $24.99/month, the best value for high-volume users. Each plan allows you to purchase credit packages at discounted rates, with larger packages offering the best value."
-                },
-                {
                     question: "How do I pay with Brieflly’s credit system?",
                     answer: "It’s simple: you purchase credits based on the package that fits your needs. Use these credits to create briefs, match with experts, and manage your projects. Running a bigger project? Simply add more credits - pay only for what you need, with no hidden costs."
                 },

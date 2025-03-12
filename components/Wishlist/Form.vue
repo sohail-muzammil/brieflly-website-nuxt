@@ -8,7 +8,7 @@
               <form @submit.prevent="handleSubmit" class="container mt-4">
             <!-- Name Field -->
             <div class="mb-3">
-              <label for="name" class="form-label">Name</label>
+              <label for="name" class="form-label">Full Name</label>
               <input type="text" class="form-control" id="name" placeholder="Enter your name" v-model="form.name" />
             </div>
 
@@ -20,30 +20,30 @@
 
             <!-- Company or Organization Field -->
             <div class="mb-3">
-              <label for="company" class="form-label">Company or organization</label>
-              <input type="text" class="form-control" id="company" placeholder="Enter your company or organization"
+              <label for="company" class="form-label">Company or Organization</label>
+              <input type="text" class="form-control" id="company" placeholder="Enter your company name"
                 v-model="form.company" />
             </div>
 
             <!-- Project Description Field -->
             <div class="mb-3">
-              <label for="project" class="form-label">What are you working on</label>
+              <label for="project" class="form-label">Tell us about your project</label>
               <textarea id="project" class="form-control"
-                placeholder="Describe your project and how Artifact may be useful" v-model="form.project"></textarea>
+                placeholder="Share what you're working on and how Brieflly can help" v-model="form.project"></textarea>
             </div>
 
             <!-- Checkbox Options -->
             <div class="mb-3">
-              <label class="form-label">Need account for</label>
+              <label class="form-label">I am signing up as</label>
               <div class="form-check">
                 <input type="checkbox" class="form-check-input" id="agency" value="Agency"
                   v-model="form.accountTypes" />
-                <label class="form-check-label" for="agency">Agency</label>
+                <label class="form-check-label" for="agency">An Agency</label>
               </div>
               <div class="form-check">
                 <input type="checkbox" class="form-check-input" id="subscriber" value="Subscriber"
                   v-model="form.accountTypes" />
-                <label class="form-check-label" for="subscriber">Subscriber</label>
+                <label class="form-check-label" for="subscriber">A Business</label>
               </div>
             </div>
 

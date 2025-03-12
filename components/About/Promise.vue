@@ -8,7 +8,7 @@
                         Brieflly is here to take the stress out of finding the perfect provider. Brieflly is not just
                         another platform—it's your ultimate tool in building successful projects from start to finish.
                     </p>
-                    <NuxtLink to="#" class="btn btn-dark rounded-pill">Contact Us</NuxtLink>
+                    <NuxtLink to="/wishlist" class="btn btn-dark rounded-pill">Join Now</NuxtLink>
                 </div>
             </div>
         </div>
