@@ -27,7 +27,7 @@
               </li>
               <li class="pb-3">
                 <NuxtLink class="link-light link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover"
-                  to="/contact">Contact</NuxtLink>
+                  to="#">Contact</NuxtLink>
               </li>
             </ul>
           </div>
@@ -36,11 +36,11 @@
             <ul class="list-unstyled">
               <li class="pb-3">
                 <NuxtLink class="link-light link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover"
-                  to="/blog">Blog</NuxtLink>
+                  to="#">Blog</NuxtLink>
               </li>
               <li class="pb-3">
                 <NuxtLink class="link-light link-offset-2 link-underline-opacity-0 link-underline-opacity-100-hover"
-                  to="/news">News</NuxtLink>
+                  to="#">News</NuxtLink>
               </li>
             </ul>
           </div>
