@@ -27,8 +27,8 @@ h6,
 }
 
 .btn {
-    border: none;
-    padding: 0.70em 2em;
+    border: none !important;
+    padding: 0.70em 2em !important;
 }
 
 .home-header {
