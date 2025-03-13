@@ -9,42 +9,30 @@
                 <!-- Name Field -->
                 <div class="mb-4">
                   <label for="name" class="form-label">Full Name</label>
-                  <div class="form-floating mb-3">
                     <input type="text" class="form-control form-control-lg rounded-pill" id="name"
                       placeholder="Enter your name" v-model="form.name" />
-                    <label for="name" class="form-label">Enter your name</label>
-                  </div>
                 </div>
 
                 <!-- Email Field -->
                 <div class="mb-4">
                   <label for="email" class="form-label">Email</label>
-                  <div class="form-floating mb-3">
                     <input type="email" class="form-control form-control-lg rounded-pill" id="email"
                       placeholder="Enter your email" v-model="form.email" />
-                    <label for="email">Enter your email</label>
-                  </div>
                 </div>
 
                 <!-- Company or Organization Field -->
                 <div class="mb-4">
                   <label for="company" class="form-label">Company or Organization</label>
-                  <div class="form-floating mb-3">
                     <input type="text" class="form-control form-control-lg rounded-pill" id="company"
                       placeholder="Enter your company name" v-model="form.company" />
-                    <label for="company" class="form-label">Enter your company name</label>
-                  </div>
                 </div>
 
                 <!-- Project Description Field -->
                 <div class="mb-4">
                   <label for="project" class="form-label">Tell us about your project</label>
-                  <div class="form-floating mb-3">
-                    <textarea id="project" class="form-control form-control-lg rounded-5 h-100" rows="4"
+                    <textarea id="project" class="form-control form-control-lg rounded-5" rows="4"
                       placeholder="Share what you're working on and how Brieflly can help"
                       v-model="form.project"></textarea>
-                    <label for="project">Share what you're working on and how Brieflly can
-                      help</label>
                   </div>
                 </div>
 
