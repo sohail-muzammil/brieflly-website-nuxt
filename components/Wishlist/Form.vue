@@ -33,7 +33,7 @@
                     <textarea id="project" class="form-control form-control-lg rounded-5" rows="4"
                       placeholder="Share what you're working on and how Brieflly can help"
                       v-model="form.project"></textarea>
-                  </div>
+
                 </div>
 
                 <!-- Checkbox Options -->
