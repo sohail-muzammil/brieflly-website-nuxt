@@ -70,25 +70,25 @@
           <div class="col-md-6 text-center text-md-end">
             <ul class="list-unstyled list-inline">
               <li class="list-inline-item">
-                <a href="#">
+                <a href="https://facebook.com/Brieflly" target="_blank">
                   <img src="~/assets/img/social/facebook.svg" alt="" width="30" height="30" />
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#">
+                <a href="https://www.instagram.com/brieflly" target="_blank">
                   <img src="~/assets/img/social/instagram.svg" alt="" width="30" height="30" />
                 </a>
               </li>
               <li class="list-inline-item">
-                <a href="#">
+                <a href="https://www.linkedin.com/company/brieflly" target="_blank">
                   <img src="~/assets/img/social/linkedin.svg" alt="" width="30" height="30" />
                 </a>
               </li>
-              <li class="list-inline-item">
+              <!-- <li class="list-inline-item">
                 <a href="#">
                   <img src="~/assets/img/social/youtube.svg" alt="" width="30" height="30" />
                 </a>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>
