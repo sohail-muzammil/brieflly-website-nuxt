@@ -1,7 +1,7 @@
 <template>
     <header class="header-section" style="background: linear-gradient(90deg, #0000E4 0%, #0272DA 35%, #0055E7 100%);">
-        <div class="overlay h-100 pt-5">
-            <section>
+        <div class="overlay d-flex align-items-center h-100">
+            <section class="w-100">
                 <div class="container text-center text-white">
                     <div class="row">
                         <div class="col" data-aos="fade-in">
